@@ -31,6 +31,7 @@ OBJS = allformats.o         \
        sdp.o                \
        url.o                \
        utils.o              \
+       rtsdec.o             \
        avc.o                \
        ijkutils.o           \
 
